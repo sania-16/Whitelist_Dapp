@@ -1,2 +1,3 @@
-# Whitelist_Dapp
-# There are some issues as the changes are not being committed
+# WhitelistDapp
+# A Dapp which creates a list of exclusive customers for our NFT Collection
+# Has a frontend, backend and smart contracts (using metamask)
